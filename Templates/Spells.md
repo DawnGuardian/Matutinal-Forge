@@ -25,4 +25,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ullamcorper mat
 ___
 \* - (material cost if any)
 ___
-*Available for Sorcerers, Wizards*
+*Available for*
