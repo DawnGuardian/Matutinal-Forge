@@ -1,0 +1,94 @@
+Category,Name,World Setting,Abbr.,Year,Part of,Edition
+CORE,Basic Rules,All,---,2014,,D&D 5e
+CORE,Player's Handbook,All,PHB,2014,,D&D 5e
+CORE,Dungeon Master's Guide,All,DMG,2014,,D&D 5e
+CORE,Monster Manual,All,MM,2014,,D&D 5e
+CORE,Sage Advice Compendium,All,SAC,2014,,D&D 5e
+CORE,Player's Handbook,All,PHB,2024,,D&D 5.5e
+CORE,Dungeon Master's Guide,All,DMG,2024,,D&D 5.5e
+CORE,Monster Manual,All,MM,2024,,D&D 5.5e
+SUPPLEMENTS,Volo's Guide to Monsters,Forgotten Realms,VGtM,2016,,D&D 5e
+SUPPLEMENTS,Xanathar's Guide to Everything,Forgotten Realms,XGtE,2017,,D&D 5e
+SUPPLEMENTS,Mordenkainen's Tome of Foes,Forgotten Realms,MToF,2018,,D&D 5e
+SUPPLEMENTS,Tasha's Cauldron of Everything,Forgotten Realms,TCoE,2020,,D&D 5e
+SUPPLEMENTS,Fizban's Treasury of Dragons,Forgotten Realms,ToD,2021,,D&D 5e
+SUPPLEMENTS,Mordenkainen Presents: Monsters of the Multiverse,Multiverse,MotM,2022,,D&D 5e
+SUPPLEMENTS,Bigby Presents: Glory of the Giants,Planescape,---,2023,,D&D 5e
+SUPPLEMENTS,The Book of Many Things,All,---,2023,,D&D 5e
+SUPPLEMENTS,Elemental Evil Player's Companion,Forgotten Realms,EE,2015,,D&D 5e
+SUPPLEMENTS,The Tortle Package,Forgotten Realms,---,2017,,D&D 5e
+SUPPLEMENTS,One Grung Above,Forgotten Realms,---,2017,,D&D 5e
+SUPPLEMENTS,The Lost Kenku,Forgotten Realms,---,2017,,D&D 5e
+SUPPLEMENTS,Wayfinder's Guide to Eberron,Eberron,---,2018,,D&D 5e
+SUPPLEMENTS,Lost Laboratory of Kwalish,Forgotten Realms,---,2018,,D&D 5e
+SUPPLEMENTS,Locathah Rising,Forgotten Realms,---,2019,,D&D 5e
+SUPPLEMENTS,Infernal Machine Rebuild,Forgotten Realms,---,2019,,D&D 5e
+SUPPLEMENTS,"Mordenkainen's Fiendish Folio, Volume 1: Monsters Malevolent and Benign",Forgotten Realms,---,2019,,D&D 5e
+SUPPLEMENTS,Essentials Kit,Forgotten Realms,---,2019,,D&D 5e
+SUPPLEMENTS,Domains of Delight,Forgotten Realms (Feywild),---,2021,,D&D 5e
+SUPPLEMENTS,Minsc and Boos Journal of Villainy,Forgotten Realms,---,2021,,D&D 5e
+SUPPLEMENTS,Boo's Astral Menagerie,Spelljammer,---,2022,Spelljammer: Adventures in Space,D&D 5e
+SUPPLEMENTS,Chains of Asmodeus,Forgotten Realms,---,2023,,D&D 5e
+SUPPLEMENTS,Eberron: Forge of the Artificer,Eberron,---,2025,,D&D 5.5e
+SUPPLEMENTS,Forgotten Realms Player's Guide,Forgotten Realms,---,2025,,D&D 5.5e
+SUPPLEMENTS,Ravenloft: The Horrors Within,Ravenloft,---,2026,,D&D 5.5e
+SUPPLEMENTS,Arcana Unleashed,All,---,2026,,D&D 5.5e
+CAMPAIGN SETTINGS,Sword Coast Adventurer's Guide,Forgotten Realms,SCAG,2015,,D&D 5e
+CAMPAIGN SETTINGS,Guildmaster's Guide to Ravnica,Magic: The Gathering (Ravnica),GGtR,2018,,D&D 5e
+CAMPAIGN SETTINGS,Acquisitions Incorporated,Penny Arcade,AI,2019,,D&D 5e
+CAMPAIGN SETTINGS,Eberron: Rising from the Last War,Eberron,ERftLW,2019,,D&D 5e
+CAMPAIGN SETTINGS,Explorer's Guide to Wildemount,Exandria,EGtW,2020,,D&D 5e
+CAMPAIGN SETTINGS,Mythic Odysseys of Theros,Magic: The Gathering (Theros),MOoT,2020,,D&D 5e
+CAMPAIGN SETTINGS,Van Richten's Guide to Ravenloft,Ravenloft,VGtR,2021,,D&D 5e
+CAMPAIGN SETTINGS,Strixhaven: A Curricullum of Chaos,Magic: The Gathering (Strixhaven),SACoC,2021,,D&D 5e
+CAMPAIGN SETTINGS,Spelljammer: Adventures in Space,Spelljammer,SAiC,2022,,D&D 5e
+CAMPAIGN SETTINGS,Planescape: Adventures in the Multiverse,Planescape,PAitM,2023,,D&D 5e
+CAMPAIGN SETTINGS,Forgotten Realms: Adventures in Faerûn,Forgotten Realms,---,2025,,D&D 5.5e
+CAMPAIGN SETTINGS,Lorwyn: First Light,Magic: The Gathering (Lorwyn),---,2025,,D&D 5.5e
+CORE ADVENTURE MODULE,Hoard of the Dragon Queen,Forgotten Realms,---,2014,,D&D 5e
+CORE ADVENTURE MODULE,The Rise of Tiamat,Forgotten Realms,---,2014,,D&D 5e
+CORE ADVENTURE MODULE,Princes of the Apocalypse,Forgotten Realms,PotA,2015,,D&D 5e
+CORE ADVENTURE MODULE,Out of the Abyss,Forgotten Realms,OotA,2015,,D&D 5e
+CORE ADVENTURE MODULE,Curse of Strahd,Ravenloft,CoS,2016,,D&D 5e
+CORE ADVENTURE MODULE,Storm King's Thunder,Forgotten Realms,SKT,2016,,D&D 5e
+CORE ADVENTURE MODULE,Tomb of Annihilation,Forgotten Realms,ToA,2017,,D&D 5e
+CORE ADVENTURE MODULE,Waterdeep: Dragon Heist,Forgotten Realms,---,2018,,D&D 5e
+CORE ADVENTURE MODULE,Waterdeep: Dungeon of the Mad Mage,Forgotten Realms,---,2018,,D&D 5e
+CORE ADVENTURE MODULE,Baldur's Gate: Descent into Avernus,Forgotten Realms,---,2019,,D&D 5e
+CORE ADVENTURE MODULE,Rime of the Frostmaiden,Forgotten Realms,---,2020,,D&D 5e
+CORE ADVENTURE MODULE,The Wild Beyond the Witchlight,Forgotten Realms (Feywild),---,2021,,D&D 5e
+CORE ADVENTURE MODULE,Critical Role: Call of the Netherdeep,Exandria,---,2022,,D&D 5e
+CORE ADVENTURE MODULE,Dragonlance: Shadow of the Dragon Queen,Dragonlance,---,2022,,D&D 5e
+CORE ADVENTURE MODULE,Tyranny of Dragons,Forgotten Realms,---,2023,,D&D 5e
+CORE ADVENTURE MODULE,Phandelver and Below: The Shattered Obelisk,Forgotten Realms,---,2023,,D&D 5e
+CORE ADVENTURE MODULE,Vecna: Eve of Ruin,Multiverse,---,2024,,D&D 5e
+ADVENTURE MODULE,Lost Mine of Phandelver,Forgotten Realms,---,2014,Starter Set,D&D 5e
+ADVENTURE MODULE,Rrakkma,Forgotten Realms,---,2018,Mordenkainen's Tome of Foes,D&D 5e
+ADVENTURE MODULE,Krenko's Way,Magic: The Gathering (Ravnica),---,2018,Guildmaster's Guide to Ravnica,D&D 5e
+ADVENTURE MODULE,Dragon of Icespire Peak,Forgotten Realms,---,2019,Essentials Kit,D&D 5e
+ADVENTURE MODULE,Storm Lord's Wrath,Forgotten Realms,---,2019,,D&D 5e
+ADVENTURE MODULE,Sleeping Dragon's Wake,Forgotten Realms,---,2019,,D&D 5e
+ADVENTURE MODULE,Divine Contention,Forgotten Realms,---,2019,,D&D 5e
+ADVENTURE MODULE,Orrery of the Wanderer,Penny Arcade,---,2019,Acquisitions Incorporated,D&D 5e
+ADVENTURE MODULE,Forgotten Relics,Eberron,---,2019,Eberron: Rising from the Last War,D&D 5e
+ADVENTURE MODULE,Tide of Retribution,Exandria,---,2020,Explorer's Guide to Wildemount,D&D 5e
+ADVENTURE MODULE,Dangerous Designs,Exandria,---,2020,,D&D 5e
+ADVENTURE MODULE,Unwelcome Spirits,Exandria,---,2020,,D&D 5e
+ADVENTURE MODULE,Frozen Sick,Exandria,---,2020,,D&D 5e
+ADVENTURE MODULE,No Silent Secret,Magic: The Gathering (Theros),---,2020,Mythic Odysseys of Theros,D&D 5e
+ADVENTURE MODULE,Return to the Glory,Forgotten Realms,---,2020,,D&D 5e
+ADVENTURE MODULE,The House of Lament,Ravenloft,---,2021,Van Richten's Guide to Ravenloft,D&D 5e
+ADVENTURE MODULE,School is in Session,Magic: The Gathering (Strixhaven),---,2021,Strixhaven: A Curricullum of Chaos,D&D 5e
+ADVENTURE MODULE,Hunt for the Mage Tower,Magic: The Gathering (Strixhaven),---,2021,,D&D 5e
+ADVENTURE MODULE,The Magister's Masquerade,Magic: The Gathering (Strixhaven),---,2021,,D&D 5e
+ADVENTURE MODULE,A Reckoning in Ruins,Magic: The Gathering (Strixhaven),---,2021,,D&D 5e
+ADVENTURE MODULE,Light of Xaryxis,Spelljammer,---,2022,Spelljammer: Adventures in Space,D&D 5e
+ADVENTURE MODULE,Vecna: Nest of the Eldritch Eye,Multiverse,---,2024,Vecna: Eve of Ruin,D&D 5e
+ADVENTURE MODULE,Arcana Unleashed: Deadfall,All,---,2026,Arcana Unleashed,D&D 5.5e
+ANTHOLOGY ADVENTURE MODULE,Tales from the Yawning Portal,Forgotten Realms / Greyhawk,---,2017,,D&D 5e
+ANTHOLOGY ADVENTURE MODULE,Ghosts of Saltmarch,Greyhawk,---,2019,,D&D 5e
+ANTHOLOGY ADVENTURE MODULE,Candlekeep Mysteries,Forgotten Realms,---,2021,,D&D 5e
+ANTHOLOGY ADVENTURE MODULE,Journey through the Radiant Citadel,Forgotten Realms,---,2022,,D&D 5e
+ANTHOLOGY ADVENTURE MODULE,Keys from the Golden Vault,Forgotten Realms,---,2023,,D&D 5e
+ANTHOLOGY ADVENTURE MODULE,Quests from the Infinite Staircase,Multiverse,---,2024,,D&D 5e
+ANTHOLOGY ADVENTURE MODULE,Dragon Delves,All,---,2025,,D&D 5.5e
