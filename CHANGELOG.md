@@ -14,6 +14,10 @@ This file is generated from the commit history -- do not edit it by hand.
 - **images**: Add the 2024 class emblems
 - **sources**: Rework the sources list as CSV and add the 2023-2026 books
 
+### Bug Fixes
+
+- **sources**: Correct the 2026 entries against the WotC store
+
 ### Refactor
 
 - Restructure the folder layout
@@ -23,6 +27,10 @@ This file is generated from the commit history -- do not edit it by hand.
 ### Documentation
 
 - **sources**: Update the sources list
+
+### Build
+
+- Add git-cliff changelog configuration
 
 ### Miscellaneous
 
