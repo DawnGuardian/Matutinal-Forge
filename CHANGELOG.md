@@ -31,6 +31,7 @@ This file is generated from the commit history -- do not edit it by hand.
 ### Build
 
 - Add git-cliff changelog configuration
+- Sync cliff.toml with the canonical copy
 
 ### Miscellaneous
 
