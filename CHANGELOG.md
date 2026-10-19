@@ -38,5 +38,6 @@ This file is generated from the commit history -- do not edit it by hand.
 - **spells**: Rename Tome of the Elements to Grimoire of the Elements
 - Ignore shared-OS files and normalise file permissions
 - Drop the leading blank line from .gitignore
+- Add the shared .editorconfig
 
 
